@@ -4,6 +4,7 @@
   "description": "database readme",
   "main": "index.js",
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "knex": "^0.13.0",
     "pg": "^6.4.0"
   },
