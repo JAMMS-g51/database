@@ -1,0 +1,26 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "database readme",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "knex": "^0.13.0",
+    "pg": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAMMS-g51/database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAMMS-g51/database/issues"
+  },
+  "homepage": "https://github.com/JAMMS-g51/database#readme"
+}
