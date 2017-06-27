@@ -1,15 +1,15 @@
 module.exports = [
   {
     project_id: 1,
-    name: 'column1'
+    name: 'Doing'
   },
   {
     project_id: 1,
-    name: 'column2'
+    name: 'Done'
   },
   {
     project_id: 1,
-    name: 'column3'
+    name: 'Stretch'
   },
   {
     project_id: 1,
