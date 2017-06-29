@@ -16,7 +16,23 @@ module.exports = [
     name: 'column4'
   },
   {
-    project_id: 1,
+    project_id: 3,
+    name: 'column5'
+  },
+  {
+    project_id: 2,
+    name: 'column5'
+  },
+  {
+    project_id: 4,
+    name: 'column5'
+  },
+  {
+    project_id: 2,
+    name: 'column5'
+  },
+  {
+    project_id: 4,
     name: 'column5'
   }
 ];

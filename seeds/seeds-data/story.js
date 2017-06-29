@@ -42,8 +42,43 @@ module.exports = [
     deadline: new Date()
   },
   {
-    grouping_id: 1,
+    grouping_id: 6,
     name: 'As a user I want to be able to delete a project',
+    difficulty: 5,
+    order: 7,
+    deadline: new Date()
+  },
+  {
+    grouping_id: 7,
+    name: 'fadskljfkaef',
+    difficulty: 5,
+    order: 7,
+    deadline: new Date()
+  },
+  {
+    grouping_id: 2,
+    name: 'sdkjfljasdfjerf',
+    difficulty: 5,
+    order: 7,
+    deadline: new Date()
+  },
+  {
+    grouping_id: 4,
+    name: 'dskjfalsdf',
+    difficulty: 5,
+    order: 7,
+    deadline: new Date()
+  },
+  {
+    grouping_id: 6,
+    name: 'this',
+    difficulty: 5,
+    order: 7,
+    deadline: new Date()
+  },
+  {
+    grouping_id: 5,
+    name: 'Adsfljasljfr',
     difficulty: 5,
     order: 7,
     deadline: new Date()
