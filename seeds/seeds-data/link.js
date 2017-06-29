@@ -57,5 +57,30 @@ module.exports = [{
     story_id: 3,
     href: 'colorado.com',
     title: 'where to live'
+  },
+  {
+    story_id: 4,
+    href: 'colorado.com',
+    title: 'where to live'
+  },
+  {
+    story_id: 5,
+    href: 'colorado.com',
+    title: 'where to live'
+  },
+  {
+    story_id: 6,
+    href: 'colorado.com',
+    title: 'where to live'
+  },
+  {
+    story_id: 4,
+    href: 'colorado.com',
+    title: 'where to live'
+  },
+  {
+    story_id: 2,
+    href: 'colorado.com',
+    title: 'where to live'
   }
 ];
